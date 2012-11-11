@@ -1,0 +1,18 @@
+/* Easy iphone-wrap */
+
+	#iphone-wrap ul, #iphone-wrap li,
+	#iphone-wrap2 ul, #iphone-wrap2 li{
+		margin:0;
+		padding:0;
+		list-style:none;
+		}
+	#iphone-wrap2{margin-top:1em;}
+	#iphone-wrap li, #iphone-wrap2 li{ 
+		/* 
+			define width and height of list item (slide)
+			entire iphone-wrap area will adjust according to the parameters provided here
+		*/ 
+		width:303px;
+		height:481px;
+		overflow:hidden; 
+		}	

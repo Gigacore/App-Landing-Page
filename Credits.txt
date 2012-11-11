@@ -1,0 +1,13 @@
+
+----------------- CREDITS ------------------
+
+
+Icons		 	- www.nounproject.com
+		 	- oneandonedesigns.deviantart.com
+iPhone PSD	 	- marshallbock.com/fun/iphone4s
+LightBox	 	- lokeshdhakar.com/projects/lightbox2
+iPhone slider	 	- bxslider.com
+jQuery Form Plugin 	- jquery.malsup.com/form/
+jQuery Validation	- bassistance.de 
+
+All above mentioned are under MIT / GPL or CC license and are allowed for commercial projects.
