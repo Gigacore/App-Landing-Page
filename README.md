@@ -13,5 +13,9 @@ http://img3.themebin.com/previews/businessapp/
 
 - Signup form. I am working on it. Otherwise you can use own script.
 
+## What's need to be done?
+
+- Making the layout responsive.
+
 ## License
 BusinessApp is licenced under GPL.
