@@ -16,6 +16,9 @@ http://img3.themebin.com/previews/businessapp/
 ## What's need to be done?
 
 - Making the layout responsive.
+- A lot of tweaks and improvements.
+- Compressing images.
+- Minifying code.
 
 ## License
 BusinessApp is licenced under GPL.
