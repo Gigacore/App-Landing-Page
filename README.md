@@ -1,6 +1,8 @@
 # Introduction
 BusinessApp is a free and elegant HTML5 and CSS3 based landing page template for showcasing your Android or iOS application on your website.
 
+![My image](raw.github.com/Gigacore/App-Landing-Page/gh-pages/preview_2.png)
+
 ## Preview
 http://design.themebin.com/businessapp/
 
