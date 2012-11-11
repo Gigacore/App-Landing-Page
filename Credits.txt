@@ -10,4 +10,6 @@ iPhone slider	 	- bxslider.com
 jQuery Form Plugin 	- jquery.malsup.com/form/
 jQuery Validation	- bassistance.de 
 
+Preview images		- flickr.com/photos/73807667@N02
+
 All above mentioned are under MIT / GPL or CC license and are allowed for commercial projects.
